@@ -20,14 +20,13 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
+title: Modern Satanists Webring
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+  A group of modern satanists making rad websites!
 
-baseurl: /webring-starter # the subpath of your site, e.g. /blog
-url: https://githubusername.github.io
-repository: githubusername/webring-starter
+baseurl: /satanic-webring # the subpath of your site, e.g. /blog
+url: https://themizarkshow.github.io
+repository: themizarkshow/satanic-webring
 
 # END: You *can* customize the stuff below but you don't need to.
 
